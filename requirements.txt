@@ -1,0 +1,12 @@
+xlrd
+geopandas
+descartes
+mplleaflet 
+matplotlib
+pandas
+lifelines
+numpy
+seaborn
+scipy
+pprint
+tabulate
