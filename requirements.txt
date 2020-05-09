@@ -1,7 +1,4 @@
 xlrd
-geopandas
-descartes
-mplleaflet 
 matplotlib
 pandas
 lifelines
